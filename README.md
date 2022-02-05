@@ -1,7 +1,7 @@
 Quick project recreating instagram's homepage if it were part of GitHub https://simoniyumi.github.io/instagramgithub/
 
 ## Desktop view 
-![Screenshot Desktop](/img/desktop.jpg)
+![Screenshot Desktop](/https://raw.githubusercontent.com/simoniyumi/instagramgithub/last/img/desktop.JPG)
 
-## Mobile view (max-width: 650px)
-![Mobile Screenshot](/img/mobile.png)
+## Mobile view 
+![Mobile Screenshot](https://raw.githubusercontent.com/simoniyumi/instagramgithub/last/img/mobile.JPG)
