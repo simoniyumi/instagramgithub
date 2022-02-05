@@ -3,14 +3,14 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: Courier;
     font-size: 14px;
 }
 
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: #22272d;
     margin: 0;
     padding: 0;
     display: flex;
@@ -50,10 +50,11 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff;
+    background-color:  #373e48;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray;
+    border: 1px solid #aebac4;
+    border-radius: 4px;
 }
 
 .group:nth-child(1) {
@@ -77,7 +78,7 @@ body {
 }
 
 .instagram-login {
-    background-color: #0095f6;
+    background-color: #347d38;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
@@ -138,7 +139,7 @@ body {
 
 @media (max-width: 650px) {
     body {
-        background-color: #ffffff;
+        background-color:  #22272d;
     }
 
     .instagram-wrapper {
